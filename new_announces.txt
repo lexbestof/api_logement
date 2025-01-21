@@ -1,0 +1,26 @@
+ID: 16805, Type: 476 €CCCPARIS 20e31 m²1 pièce, Loyer: Inconnu, Ville: Inconnu
+ID: 16775, Type: 609 €CCCPARIS 19e37 m²1 pièce, Loyer: Inconnu, Ville: Inconnu
+ID: 16794, Type: 735 €CCCPARIS 20e50 m²2 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16790, Type: 590 €CCCVIGNEUX SUR SEINE 9149 m²2 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16795, Type: 997 €CCCPARIS 20e52 m²2 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16770, Type: 1147 €CCCPARIS 13e54 m²2 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16776, Type: 890 €CCCPARIS 20e48 m²2 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16801, Type: 1005 €CCCPARIS 20e52 m²2 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16797, Type: 1071 €CCCPARIS 19e52 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16792, Type: 544 €CCCPARIS 20e62 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16642, Type: 1225 €CCCPARIS 20e62 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16731, Type: 663 €CCCVIGNEUX SUR SEINE 9162 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16796, Type: 733 €CCCPARIS 18e60 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16715, Type: 1217 €CCCPARIS 15e65 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16701, Type: 930 €CCCPARIS 12e49 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16791, Type: 1427 €CCCPARIS 13e68 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16798, Type: 843 €CCCCHAMPIGNY SUR MARNE 9485 m²4 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16767, Type: 1118 €CCCLES ULIS 9187 m²4 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16771, Type: 1490 €CCCPARIS 15e77 m²4 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16799, Type: 1424 €CCCPARIS 12e100 m²5 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16815, Type: 614 €CCCPARIS 15e49 m²2 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16802, Type: 1466 €CCCPARIS 15e81 m²4 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16806, Type: 954 €CCCLA CELLE ST CLOUD 7882 m²4 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16813, Type: 1103 €CCCTHIAIS 9490 m²4 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16809, Type: 672 €CCCVIGNEUX SUR SEINE 9162 m²3 pièces, Loyer: Inconnu, Ville: Inconnu
+ID: 16811, Type: 909 €CCCMONTREUIL 9381 m²4 pièces, Loyer: Inconnu, Ville: Inconnu
