@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
+
 URL = "https://teleservices.paris.fr/locannonces/"
 SEEN_ANNOUNCES = set()  # Pour stocker les annonces déjà vues
 CHECK_INTERVAL = 120  # Temps d'attente entre les requêtes (en secondes)
